@@ -8,7 +8,6 @@ public class TicTacToe
     String p1;
     String p2;
 
-
     TicTacToe()
     {
         name="";
